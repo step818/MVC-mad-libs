@@ -24,3 +24,6 @@ C:\Users\steph\Desktop\AngryLibs.Solution\AngryLibs\obj\Debug\netcoreapp2.2\Angr
 C:\Users\steph\Desktop\AngryLibs.Solution\AngryLibs\obj\Debug\netcoreapp2.2\Razor\Views\Fantasy\Home.g.cshtml.cs
 C:\Users\steph\Desktop\AngryLibs.Solution\AngryLibs\obj\Debug\netcoreapp2.2\Razor\Views\Fantasy\NewRobinHood.g.cshtml.cs
 C:\Users\steph\Desktop\AngryLibs.Solution\AngryLibs\obj\Debug\netcoreapp2.2\Razor\Views\Fantasy\RobinHood.g.cshtml.cs
+C:\Users\steph\Desktop\AngryLibs.Solution\AngryLibs\obj\Debug\netcoreapp2.2\Razor\Views\Halloween\Form.g.cshtml.cs
+C:\Users\steph\Desktop\AngryLibs.Solution\AngryLibs\obj\Debug\netcoreapp2.2\Razor\Views\Halloween\Home.g.cshtml.cs
+C:\Users\steph\Desktop\AngryLibs.Solution\AngryLibs\obj\Debug\netcoreapp2.2\Razor\Views\Halloween\NewHalloween1.g.cshtml.cs
